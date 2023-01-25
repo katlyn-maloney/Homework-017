@@ -1,0 +1,49 @@
+.header {
+    background: #CCD2BB;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+h1 {
+    font-family: Petit Formal Script, Cursive, times;
+    font-size: 36px;
+    color: #785B85;
+}
+
+.navigation {
+    display: flex;
+    flex-direction: row;
+}
+
+.navItems {
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: 'open sans', sans-serif;
+    font-size: 24px;
+}
+
+h2 {
+    font-family: Petit formal Script, Cursive, times;
+    font-size: 30px;
+    color: #4E6146;
+}
+
+.footer {
+    background: #CABAD1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.footerText {
+    display: flex;
+    flex-direction: row;
+}
+
+p {
+    font-family: 'open sans', sans-serif;
+    font-size: 16;
+}
